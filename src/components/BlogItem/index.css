@@ -1,0 +1,29 @@
+.blog-item-container {
+  border-width: 3px;
+  padding: 10px;
+  margin: 15px;
+  border-style: solid;
+  border-color: #8e8e8e;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 25px;
+}
+.Item-image {
+  height: 180px;
+  width: 250px;
+  margin-left: 40px;
+}
+.author-info-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.avatar-image {
+  height: 15px;
+  width: 15px;
+}
+.details-container {
+  margin-left: 25px;
+}

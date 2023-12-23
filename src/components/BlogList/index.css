@@ -1,0 +1,4 @@
+.blog-list-container-item {
+  display: flex;
+  flex-direction: column;
+}
